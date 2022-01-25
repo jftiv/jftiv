@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jftiv
-- 👀 I’m interested in building functional websites as a hobby. I enjoy learning new languages and dissecting what makes them different and learning the benefits of different languages. 
-- 🌱 I’m currently learning how to set up front-end and back-end of websites using javascript and javascript related frameworks like React. I am currently exploring data visualization packages such as Chart.js
-- 💞️ I’m looking to collaborate on anything listed publically on my github. I would love any free advice and welcome any collaboration. 
+- 👀 I am interested in exploring new frameworks and building next projects to test them. I am currently working as a SDET doing QA and automation.
+- 🌱 I am currently exploring new frameworks for frontend and backend JS. Previously I have worked with react and express but I would like to explore new frameworks such as nextjs to see how serverside rendering can improve the pipeline. While working on this I am looking to expand my knowledge with unit and integration tests by building out my personal projects testing frameworks. I am currently looking to improve my knowledge of Cypress and hope to expand into Jest and WebdriverIO. 
+- 💞️ I’m looking to collaborate on anything listed publically on my github. I would love any advice and welcome any collaboration on anything including projects I've currently hidden from my github but are shown on my homepage. 
 - 📫 How to reach me: wiredco@gmail.com or theroyale#4227 on discord
 
 <!---
